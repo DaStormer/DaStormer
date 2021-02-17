@@ -27,3 +27,5 @@ I develop and maintain a Discord bot for moderation functionality and systems fo
 
 
 **»»» *And more...***
+
+[![Stormer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastormer&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight)](https://dastormer.me/)
