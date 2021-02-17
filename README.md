@@ -21,7 +21,7 @@ I oversee and manage the Discord server/community. I'm also tasked with the deve
 I am currently a developer for [BACON ARMY](https://discord.gg/myusernamesthis), the official Discord server of [MyUsernamesThis](https://www.youtube.com/myusernamesthis).  
 My job is to develop, manage, and maintain Discord bots that aid in server operations, ranging from state of the art moderation, automating ban appeals, and other systems. 
 
-**»»» *Abracadabra Head Moderator & Developer***  
+**»»» *Abracadabra Head Moderator & Bot Developer***  
 I'm currently a Head Moderator of Abracadabra, a Roblox development group that created SharkBite and Backpacking.  
 I develop and maintain a Discord bot for moderation functionality and systems for events.  
 
