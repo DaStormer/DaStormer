@@ -2,7 +2,8 @@
 **Website:** https://dastormer.me/  
 **Twitter:** https://twitter.com/DaOnlyStormer  
 
-❔ **Who am I?** A programmer enthusiast experienced in JavaScript, NodeJS, and the DiscordJS library.  
+### ❔ **Who am I?**  
+A programmer enthusiast experienced in JavaScript, NodeJS, and the DiscordJS library.  
 I also have experience with Google API(s) and PostgreSQL database management.  
 Most of my work is closed source.  
 
@@ -11,7 +12,7 @@ Most of my work is closed source.
 **»»» *Founder of Storm Developmentz***  
 I am the Founder of [Storm Developmentz](https://stormdevelopmentz.xyz/home), a Discord bots development team. We are focused on providing servers with efficient, reliable, and top quality bots that meet their purposes. We pride ourselves on developing unique features that are not commonly found in public bots.  
 
-Our first public project is [StormBeatz](https://stormbeatz.org/), an advanced and highly customizable Discord music bot that will liven up your music and ensure you have enough settings to be in control.
+Our first public project is [StormBeatz](https://stormbeatz.org/), an advanced and highly customizable Discord music bot that will liven up your music and ensure you have enough settings to be in control. It's currently serving 8500 servers and 1.1M+ users.
 
 **»»» *CyberHeist Administrator***  
 I'm currently an administrator for CyberHeist, an upcoming open-world and futuristic Roblox game.  
@@ -25,6 +26,8 @@ My job is to develop, manage, and maintain Discord bots that aid in server opera
 I'm currently a Head Moderator of Abracadabra, a Roblox development group that created SharkBite and Backpacking.  
 I develop and maintain a Discord bot for moderation functionality and systems for events.  
 
+**»»» *Bot Developer for AedusMC***
+I am responsible for the development and maintenance of the moderation bot in the Discord server for AedusMC, an upcoming Minecraft server owned by MyUsernamesThis.
 
 **»»» *And more...***
 
