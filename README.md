@@ -34,4 +34,4 @@ I am responsible for the development and maintenance of the moderation bot in th
 
 [![Stormer's Main Projects](https://cdn.discordapp.com/attachments/776299524737990670/811774049272725514/unknown.png)](https://dastormer.me/)
 
-[![Stormer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastormer&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight)](https://dastormer.me/)
+[![Stormer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastormer&count_private=true&show_icons=true&theme=tokyonight)](https://dastormer.me/)
