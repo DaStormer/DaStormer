@@ -2,6 +2,7 @@
 **Website:** https://dastormer.me/  
 **Twitter:** https://twitter.com/DaOnlyStormer  
 **Discord:** [DaStormer#7986](https://discord.com/users/373893905243963394)  
+**Email:** dastormer@stormdevelopmentz.xyz
 
 ### ❔ **Who am I?**  
 A programmer enthusiast experienced in JavaScript, NodeJS, and the DiscordJS library.  
