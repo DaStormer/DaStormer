@@ -38,4 +38,4 @@ I am responsible for the development and maintenance of the moderation bot in th
 ### Interested in collaborating on my team's project(s)?  
 Feel free to contact me via email or Discord to discuss further!
 
-[![Stormer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastormer&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight)](https://dastormer.me/)
+[![Stormer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastormer&count_private=true&hide=stars,issues&show_icons=true&theme=tokyonight)](https://dastormer.me/)
