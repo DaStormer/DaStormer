@@ -29,7 +29,7 @@ I'm currently a Head Moderator of Abracadabra, a Roblox development group that c
 I develop and maintain a Discord bot for moderation functionality and systems for events.  
 
 **»»» *Bot Developer for AedusMC***  
-I am responsible for the development and maintenance of the moderation bot in the Discord server for AedusMC, an upcoming Minecraft server owned by MyUsernamesThis.
+I am responsible for the development and maintenance of the moderation bot in the Discord server for [AedusMC](https://aedusmc.com/), a Minecraft server owned by MyUsernamesThis.
 
 **»»» *And more...***
 
