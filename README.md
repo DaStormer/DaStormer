@@ -14,7 +14,7 @@ Most of my work is closed source.
 **»»» *Founder of Storm Developmentz***  
 I am the Founder of [Storm Developmentz](https://stormdevelopmentz.xyz/home), a Discord bots development team. We are focused on providing servers with efficient, reliable, and top quality bots that meet their purposes. We pride ourselves on developing unique features that are not commonly found in public bots.  
 
-Our first public project is [StormBeatz](https://stormbeatz.org/), an advanced and highly customizable Discord music bot that will liven up your music and ensure you have enough settings to be in control. It's currently serving 8500 servers and 1.1M+ users.
+Our first public project is [StormBeatz](https://stormbeatz.org/), an advanced and highly customizable Discord music bot that will liven up your music and ensure you have enough settings to be in control. It's currently serving 10800+ servers and 1.5M+ users.
 
 **»»» *CyberHeist Administrator***  
 I'm currently an administrator for CyberHeist, an upcoming open-world and futuristic Roblox game.  
