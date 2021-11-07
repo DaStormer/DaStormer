@@ -31,6 +31,9 @@ I develop and maintain a Discord bot for moderation functionality and systems fo
 **»»» *Bot Developer for AedusMC***  
 I am responsible for the development and maintenance of the moderation bot in the Discord server for [AedusMC](https://aedusmc.com/), a Minecraft server owned by MyUsernamesThis.
 
+**»»» *Node module founder/developer***
+I just released my own node module, [starify-discord](https://www.npmjs.com/package/starify-discord, 'starify-discord npmjs.com'). Starify-discord is a node.js module to easily create and manage starboards using discord.js!  It's my first node module and open source project. If you notice any bugs, feel free to open an issue on my [GitHub repository](https://github.com/DaStormer/starify-discord, 'GitHub repository for starify-discord').
+
 **»»» *And more...***
 
 [![Stormer's Main Projects](https://cdn.discordapp.com/attachments/776299524737990670/811774049272725514/unknown.png)](https://dastormer.me/)  
