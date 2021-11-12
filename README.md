@@ -14,7 +14,13 @@ Most of my work is closed source.
 **»»» *Founder of Storm Developmentz***  
 I am the Founder of [Storm Developmentz](https://stormdevelopmentz.xyz/home), a Discord bots development team. We are focused on providing servers with efficient, reliable, and top quality bots that meet their purposes. We pride ourselves on developing unique features that are not commonly found in public bots.  
 
-Our first public project is [StormBeatz](https://stormbeatz.org/), an advanced and highly customizable Discord music bot that will liven up your music and ensure you have enough settings to be in control. It's currently serving 10800+ servers and 1.5M+ users.
+Our first public project is [StormBeatz](https://stormbeatz.org/), an advanced and highly customizable Discord music bot that will liven up your music and ensure you have enough settings to be in control. It's currently serving 30K+ servers and 5M+ users.
+
+**»»» *Developer of Starify Discord***  
+I recently created my first node module and open source project, [starify-discord](https://github.com/DaStormer/starify-discord)! It's a customizable framework to create and manage starboards using discord.js :)
+
+**»»» *CYBERUNNERS Bot Developer***  
+I develop, manage, and maintain bots for the [CYBERUNNERS](https://cyberunners.com/) (NFT collection of 8888 uniquely illustrated rebels from the dystopian future) Discord server. Features include advanced moderation, games, and many more custom systems!
 
 **»»» *CyberHeist Administrator***  
 I'm currently an administrator for CyberHeist, an upcoming open-world and futuristic Roblox game.  
